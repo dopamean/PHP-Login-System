@@ -43,7 +43,7 @@ require_once 'inc/config.php'; ?>
                 
             </div>
         </div>
-        
+
         <?php require_once 'inc/footer.php'; ?>
         
     </body>
